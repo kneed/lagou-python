@@ -2,9 +2,7 @@
 #-*-coding:utf-8 -*-
 
 import requests
-import json
 import xlsxwriter
-import string
 
 proxies={'http':'http://122.6.116.84:808'}
 
